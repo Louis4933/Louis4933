@@ -8,7 +8,7 @@
 
 I am currently a final year student 👨‍🎓 at CY Tech in Computer Engineering, specialising in Cloud Computing.
 
-:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/louis-floreani)
+:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-louisfloreani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/louis-floreani)
 
 ---
 
